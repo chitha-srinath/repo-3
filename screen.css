@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+display: inline-block
+}
+header {
+ 
+    height: 20vh;
+}
+.image {
+    height: 14vh;
+   background-color: cornflowerblue;
+    width: 150px;
+    padding: 22px 30px;
+}
+.heading {
+    height: 20vh;
+    vertical-align: top;
+   background-color: violet;
+    width: 1294px;
+}
+h1 {
+    padding-top: 47px;
+    padding-left: 519px;
+}
+img {
+    height: 100px;
+    width: 100px;
+    padding-right: 40px;
+    padding-left: 20px;
+}
+.search{
+    width:50vw;
+    height:80vh;
+    background-color: indianred;
+}
+.fav{
+    width:50vw;
+    height:80vh;
+    background-color:springgreen;
+}
+.search {
+    width: 748px;
+    height: 80vh;
+    
+}
+ul {
+    vertical-align: middle;
+    text-align: center;
+    list-style-type:square;
+    padding-top: 30vh;
+}
+.fav {
+    width: 756px;
+    height: 80vh;
+    
+}
